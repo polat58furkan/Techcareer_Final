@@ -1,0 +1,48 @@
+C:\Users\akin.karabulut\source\repos\Hopper - Coding Principles\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.csproj.AssemblyReference.cache
+C:\Users\akin.karabulut\source\repos\Hopper - Coding Principles\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akin.karabulut\source\repos\Hopper - Coding Principles\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.AssemblyInfoInputs.cache
+C:\Users\akin.karabulut\source\repos\Hopper - Coding Principles\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.AssemblyInfo.cs
+C:\Users\akin.karabulut\source\repos\Hopper - Coding Principles\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.csproj.CoreCompileInputs.cache
+C:\Users\akin.karabulut\source\repos\Hopper - Coding Principles\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.exe
+C:\Users\akin.karabulut\source\repos\Hopper - Coding Principles\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.deps.json
+C:\Users\akin.karabulut\source\repos\Hopper - Coding Principles\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.runtimeconfig.json
+C:\Users\akin.karabulut\source\repos\Hopper - Coding Principles\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.runtimeconfig.dev.json
+C:\Users\akin.karabulut\source\repos\Hopper - Coding Principles\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.dll
+C:\Users\akin.karabulut\source\repos\Hopper - Coding Principles\TechEvent\TechEvent\bin\Debug\net5.0\ref\TechEvent.dll
+C:\Users\akin.karabulut\source\repos\Hopper - Coding Principles\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.pdb
+C:\Users\akin.karabulut\source\repos\Hopper - Coding Principles\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.dll
+C:\Users\akin.karabulut\source\repos\Hopper - Coding Principles\TechEvent\TechEvent\obj\Debug\net5.0\ref\TechEvent.dll
+C:\Users\akin.karabulut\source\repos\Hopper - Coding Principles\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.pdb
+C:\Users\akin.karabulut\source\repos\Hopper - Coding Principles\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.genruntimeconfig.cache
+C:\Users\Merve BİNGÖL\OneDrive\Masaüstü\bootcamp\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.exe
+C:\Users\Merve BİNGÖL\OneDrive\Masaüstü\bootcamp\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.deps.json
+C:\Users\Merve BİNGÖL\OneDrive\Masaüstü\bootcamp\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.runtimeconfig.json
+C:\Users\Merve BİNGÖL\OneDrive\Masaüstü\bootcamp\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.runtimeconfig.dev.json
+C:\Users\Merve BİNGÖL\OneDrive\Masaüstü\bootcamp\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.dll
+C:\Users\Merve BİNGÖL\OneDrive\Masaüstü\bootcamp\TechEvent\TechEvent\bin\Debug\net5.0\ref\TechEvent.dll
+C:\Users\Merve BİNGÖL\OneDrive\Masaüstü\bootcamp\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.pdb
+C:\Users\Merve BİNGÖL\OneDrive\Masaüstü\bootcamp\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.csproj.AssemblyReference.cache
+C:\Users\Merve BİNGÖL\OneDrive\Masaüstü\bootcamp\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve BİNGÖL\OneDrive\Masaüstü\bootcamp\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.AssemblyInfoInputs.cache
+C:\Users\Merve BİNGÖL\OneDrive\Masaüstü\bootcamp\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.AssemblyInfo.cs
+C:\Users\Merve BİNGÖL\OneDrive\Masaüstü\bootcamp\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.csproj.CoreCompileInputs.cache
+C:\Users\Merve BİNGÖL\OneDrive\Masaüstü\bootcamp\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.dll
+C:\Users\Merve BİNGÖL\OneDrive\Masaüstü\bootcamp\TechEvent\TechEvent\obj\Debug\net5.0\ref\TechEvent.dll
+C:\Users\Merve BİNGÖL\OneDrive\Masaüstü\bootcamp\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.pdb
+C:\Users\Merve BİNGÖL\OneDrive\Masaüstü\bootcamp\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.genruntimeconfig.cache
+C:\Users\dell-pc\Desktop\.Net\Bitirme Projesi\EtkinlikProjesi-main\EtkinlikProjesi-main\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.exe
+C:\Users\dell-pc\Desktop\.Net\Bitirme Projesi\EtkinlikProjesi-main\EtkinlikProjesi-main\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.deps.json
+C:\Users\dell-pc\Desktop\.Net\Bitirme Projesi\EtkinlikProjesi-main\EtkinlikProjesi-main\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.runtimeconfig.json
+C:\Users\dell-pc\Desktop\.Net\Bitirme Projesi\EtkinlikProjesi-main\EtkinlikProjesi-main\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.runtimeconfig.dev.json
+C:\Users\dell-pc\Desktop\.Net\Bitirme Projesi\EtkinlikProjesi-main\EtkinlikProjesi-main\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.dll
+C:\Users\dell-pc\Desktop\.Net\Bitirme Projesi\EtkinlikProjesi-main\EtkinlikProjesi-main\TechEvent\TechEvent\bin\Debug\net5.0\ref\TechEvent.dll
+C:\Users\dell-pc\Desktop\.Net\Bitirme Projesi\EtkinlikProjesi-main\EtkinlikProjesi-main\TechEvent\TechEvent\bin\Debug\net5.0\TechEvent.pdb
+C:\Users\dell-pc\Desktop\.Net\Bitirme Projesi\EtkinlikProjesi-main\EtkinlikProjesi-main\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.csproj.AssemblyReference.cache
+C:\Users\dell-pc\Desktop\.Net\Bitirme Projesi\EtkinlikProjesi-main\EtkinlikProjesi-main\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell-pc\Desktop\.Net\Bitirme Projesi\EtkinlikProjesi-main\EtkinlikProjesi-main\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.AssemblyInfoInputs.cache
+C:\Users\dell-pc\Desktop\.Net\Bitirme Projesi\EtkinlikProjesi-main\EtkinlikProjesi-main\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.AssemblyInfo.cs
+C:\Users\dell-pc\Desktop\.Net\Bitirme Projesi\EtkinlikProjesi-main\EtkinlikProjesi-main\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.csproj.CoreCompileInputs.cache
+C:\Users\dell-pc\Desktop\.Net\Bitirme Projesi\EtkinlikProjesi-main\EtkinlikProjesi-main\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.dll
+C:\Users\dell-pc\Desktop\.Net\Bitirme Projesi\EtkinlikProjesi-main\EtkinlikProjesi-main\TechEvent\TechEvent\obj\Debug\net5.0\ref\TechEvent.dll
+C:\Users\dell-pc\Desktop\.Net\Bitirme Projesi\EtkinlikProjesi-main\EtkinlikProjesi-main\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.pdb
+C:\Users\dell-pc\Desktop\.Net\Bitirme Projesi\EtkinlikProjesi-main\EtkinlikProjesi-main\TechEvent\TechEvent\obj\Debug\net5.0\TechEvent.genruntimeconfig.cache
